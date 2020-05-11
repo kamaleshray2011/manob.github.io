@@ -1,0 +1,128 @@
+* {}
+
+body {}
+
+.area {
+    background-color: #EBEAE6;
+    overflow: hidden;
+}
+
+.header {
+    overflow: hidden;
+    padding: 3px 0px;
+    background-color: black;
+}
+
+.pages {}
+
+.pages ul {
+    list-style: none;
+    padding-left: 0px;
+    text-align: center;
+}
+
+.pages ul li {
+    display: inline-block;
+}
+
+.pages ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 41px;
+    font-size: 25px;
+    display: block;
+}
+
+.main {}
+
+.title {}
+
+.title h2 {
+    text-align: center;
+}
+
+.sticker-box {
+    border: 1px solid;
+    max-width: 400px;
+    border-radius: 10px;
+    text-align: right;
+    margin-left: 80px;
+    margin-right: 25px;
+    padding-right: 13px;
+    float: left;
+}
+
+.sticker-heading {
+    margin-left: 20px;
+    margin-top: -19px;
+    background-color: black;
+    max-width: 106px;
+    color: white;
+    text-align: center;
+}
+
+.sticker-heading h3 {}
+
+.author-speech {
+    margin-top: -25px;
+}
+
+.author-speech p {
+    line-height: 15px;
+    padding-top: 11px;
+    padding-left: 70px;
+}
+
+.author-speech h2 {}
+
+.program-status {}
+
+.program-status h1 {}
+
+.program-name {}
+
+.program-name p {
+    font-size: 200px;
+    margin: auto;
+    margin-bottom: -15px;
+}
+
+.passage {
+    margin-right: 15px;
+}
+
+.passage p {
+    text-align: justify;
+}
+
+.order-button {
+    border: 1px solid white;
+    width: 350px;
+    overflow: hidden;
+    display: inline-block;
+    max-inline-size: 290px;
+    margin-left: 300px;
+    border-radius: 13px;
+    background-color: orange;
+}
+
+.order-button h4 {
+    text-align: center;
+    margin: 5px;
+    padding-top: 2px;
+    color: white;
+}
+
+.footer {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 100px;
+    background: #011926;
+    padding: 65px 0 30px 0;
+}
+
+.footer>.find-offer {}
+
+.footer>.find-offer h4 {}
